@@ -1,0 +1,501 @@
+ID_Cliente,Nome_Cliente,ID_Estado,Canal
+1,Sr. Enzo Gabriel Azevedo,22,Loja Física
+2,Srta. Kamilly da Rocha,4,Online
+3,Amanda Farias,10,Online
+4,André Castro,12,Online
+5,Dr. Pietro Nunes,8,Loja Física
+6,Luiz Otávio Correia,7,Loja Física
+7,Miguel Moraes,8,Online
+8,Carlos Eduardo Ferreira,14,Online
+9,Isabella Ferreira,23,Online
+10,Alexandre Pinto,19,Loja Física
+11,Guilherme Duarte,7,Loja Física
+12,Ana Laura Melo,13,Online
+13,Igor Cavalcanti,12,Loja Física
+14,Giovanna Silveira,18,Loja Física
+15,Dra. Sofia Correia,13,Online
+16,Joaquim Pereira,17,Online
+17,Srta. Beatriz Cardoso,13,Loja Física
+18,Sra. Ana Lívia da Luz,3,Loja Física
+19,Camila Mendes,13,Loja Física
+20,Juan Costa,9,Online
+21,Srta. Maria Clara Barbosa,24,Online
+22,Lorenzo Souza,15,Online
+23,Anthony Farias,23,Loja Física
+24,Theo Fernandes,6,Online
+25,Sarah Alves,21,Loja Física
+26,Benjamin Duarte,25,Loja Física
+27,Agatha Teixeira,5,Loja Física
+28,Sr. Vinicius das Neves,4,Loja Física
+29,Bruno Pereira,3,Online
+30,Davi Lucas Cunha,17,Loja Física
+31,Pietro Cardoso,15,Online
+32,João Guilherme Costa,22,Online
+33,Evelyn Sales,24,Loja Física
+34,Dra. Stella Campos,14,Online
+35,Sr. Benjamin Correia,2,Online
+36,Vitória Moura,26,Online
+37,Ana Carolina Melo,23,Online
+38,Breno Costela,11,Online
+39,Brenda Moura,27,Online
+40,Lavínia Castro,12,Online
+41,Nina Cavalcanti,7,Online
+42,Alice Rezende,2,Online
+43,Daniel Lima,24,Loja Física
+44,Davi Lucas Duarte,7,Loja Física
+45,João Lucas da Paz,6,Loja Física
+46,Sra. Fernanda Ramos,26,Loja Física
+47,Mariane Pereira,8,Loja Física
+48,Rafaela Carvalho,20,Online
+49,Davi Lucca Cardoso,12,Loja Física
+50,Luna Cunha,8,Online
+51,Antônio Lima,26,Online
+52,Julia Nascimento,1,Online
+53,Dr. Erick Gonçalves,19,Online
+54,Gabriela Lopes,27,Loja Física
+55,Lucca Campos,14,Loja Física
+56,Isabel Sales,27,Online
+57,Isaac Azevedo,25,Online
+58,Nina Caldeira,7,Online
+59,Dr. Juan das Neves,18,Online
+60,Sr. Luiz Gustavo Novaes,27,Loja Física
+61,Maria Julia Lima,15,Loja Física
+62,Sr. Vitor da Mota,16,Loja Física
+63,Sr. Fernando Peixoto,4,Online
+64,Sra. Maria Fernanda Gonçalves,1,Loja Física
+65,Julia Novaes,25,Loja Física
+66,Ana Beatriz Nunes,12,Loja Física
+67,Kevin da Rocha,24,Loja Física
+68,Melissa Melo,25,Loja Física
+69,Amanda Souza,18,Online
+70,Amanda Rodrigues,11,Online
+71,Pedro Cavalcanti,20,Online
+72,Bernardo Moreira,22,Loja Física
+73,Sra. Sophie Vieira,22,Online
+74,Yuri Campos,24,Online
+75,Sr. Emanuel Costela,5,Online
+76,Rebeca Pires,25,Loja Física
+77,Marina da Cunha,16,Online
+78,Enrico da Conceição,17,Online
+79,Breno das Neves,2,Online
+80,Julia da Cunha,3,Online
+81,Sra. Carolina Azevedo,5,Online
+82,Isabelly Castro,7,Online
+83,Helena Vieira,5,Loja Física
+84,Davi Costa,15,Online
+85,Thiago Moura,17,Online
+86,Dra. Catarina da Cunha,24,Loja Física
+87,Sra. Lavínia Rocha,21,Loja Física
+88,Sr. Leonardo Moreira,23,Loja Física
+89,Lorenzo da Mata,23,Online
+90,Carolina da Rosa,24,Online
+91,Paulo Moraes,3,Online
+92,Maria da Costa,8,Online
+93,Maria Eduarda Farias,1,Online
+94,Ana Campos,22,Loja Física
+95,Nathan Peixoto,2,Loja Física
+96,Pietra Jesus,10,Loja Física
+97,Sr. Danilo da Costa,26,Loja Física
+98,Maria Fernanda Barbosa,19,Online
+99,Pedro Lucas Cardoso,13,Online
+100,Sr. Cauã Cunha,5,Loja Física
+101,Yasmin Freitas,14,Loja Física
+102,Dra. Maria Eduarda Campos,7,Online
+103,Sra. Isabel Farias,20,Online
+104,Nathan Pires,17,Online
+105,Rafaela Caldeira,16,Online
+106,João Alves,7,Loja Física
+107,Emanuella da Cruz,14,Online
+108,Guilherme Carvalho,27,Loja Física
+109,Joana Porto,27,Online
+110,Alexandre Pinto,2,Loja Física
+111,Calebe Rocha,26,Online
+112,Ana Clara Viana,14,Loja Física
+113,Vitor Gabriel da Luz,15,Loja Física
+114,Luiz Fernando Dias,26,Online
+115,Ana Moura,6,Online
+116,Thales Rodrigues,2,Online
+117,Samuel Moura,16,Online
+118,Arthur Cavalcanti,16,Loja Física
+119,Anthony Cunha,12,Online
+120,Gabrielly Pereira,18,Online
+121,Eduarda Jesus,16,Loja Física
+122,Rafaela Farias,7,Online
+123,Paulo Carvalho,25,Online
+124,Luana Ramos,17,Online
+125,Rafaela Campos,7,Loja Física
+126,Valentina Cardoso,1,Online
+127,Dr. Enzo Gabriel Rodrigues,14,Loja Física
+128,Pietra da Mota,12,Online
+129,Dr. João Gabriel Nogueira,23,Loja Física
+130,Pedro Miguel Caldeira,1,Loja Física
+131,Juan Dias,27,Loja Física
+132,Antônio Cardoso,20,Online
+133,Bruno Souza,18,Online
+134,Helena Fogaça,4,Online
+135,Dr. Raul Pinto,8,Online
+136,Davi Lucas Caldeira,10,Online
+137,Leandro da Rosa,17,Loja Física
+138,Sra. Caroline Santos,27,Loja Física
+139,Marcos Vinicius Cardoso,10,Online
+140,Bruno da Cruz,15,Online
+141,Julia Silveira,25,Online
+142,Levi Alves,1,Loja Física
+143,Thiago Gomes,1,Online
+144,Bianca da Cunha,18,Loja Física
+145,Manuela Nunes,18,Online
+146,Benício da Rocha,4,Loja Física
+147,Calebe Cavalcanti,21,Online
+148,Ana Luiza da Cruz,11,Online
+149,Joaquim da Cruz,22,Loja Física
+150,Bárbara da Conceição,18,Loja Física
+151,Thiago Rodrigues,23,Online
+152,Ana Luiza Novaes,8,Online
+153,Carolina da Luz,25,Loja Física
+154,Bernardo Cardoso,2,Online
+155,Clara Silveira,18,Loja Física
+156,Dr. Guilherme Farias,20,Loja Física
+157,Enzo Rocha,27,Loja Física
+158,Lorena da Conceição,6,Online
+159,Sra. Daniela Ribeiro,24,Online
+160,Carolina Azevedo,7,Loja Física
+161,Srta. Maria Luiza Rezende,14,Loja Física
+162,Srta. Maria Luiza Gonçalves,12,Online
+163,Emanuella Monteiro,22,Online
+164,Kamilly Silveira,3,Online
+165,Isabella Porto,20,Loja Física
+166,Giovanna Castro,26,Online
+167,Yasmin Freitas,18,Online
+168,Heloísa Novaes,1,Online
+169,Raul Cardoso,21,Online
+170,Pietra Vieira,10,Online
+171,João Pedro Barros,7,Online
+172,Davi Luiz Fogaça,17,Online
+173,Alícia Araújo,5,Online
+174,Maria Luiza Cardoso,6,Loja Física
+175,Caio Jesus,12,Loja Física
+176,Guilherme Aragão,18,Loja Física
+177,Marina Ramos,2,Online
+178,Diogo da Paz,2,Loja Física
+179,Sr. Diego Correia,16,Online
+180,Dr. Gustavo Henrique Rocha,19,Loja Física
+181,Dr. Arthur Carvalho,7,Online
+182,Ana Clara Gomes,25,Loja Física
+183,Calebe Almeida,22,Loja Física
+184,Joana Mendes,6,Loja Física
+185,Sra. Stella Fernandes,5,Online
+186,Ana Luiza Jesus,19,Loja Física
+187,Isadora Ferreira,1,Online
+188,Dr. Kaique Castro,3,Online
+189,Laura Porto,5,Online
+190,Maria Cecília Teixeira,16,Loja Física
+191,Vitor Nascimento,12,Loja Física
+192,João Costa,14,Online
+193,Diego da Costa,18,Online
+194,Luiz Henrique Gonçalves,22,Loja Física
+195,Leonardo da Cunha,25,Online
+196,Heitor Castro,14,Online
+197,Eduardo Alves,17,Online
+198,Renan Freitas,8,Loja Física
+199,João Miguel Gonçalves,3,Online
+200,Isabelly Porto,22,Loja Física
+201,Dra. Joana da Paz,5,Online
+202,Vitor Hugo da Cruz,23,Online
+203,Murilo Viana,2,Online
+204,Pedro Miguel Monteiro,8,Online
+205,Fernando da Costa,17,Loja Física
+206,Fernando Viana,22,Loja Física
+207,Benício Nogueira,17,Online
+208,Mariana Silveira,27,Loja Física
+209,Sr. Erick Porto,17,Online
+210,Ryan Fogaça,23,Online
+211,Larissa da Costa,4,Online
+212,Bárbara Jesus,16,Online
+213,Srta. Maria Eduarda Ramos,16,Online
+214,Heloísa Nascimento,23,Online
+215,Heitor Pires,5,Online
+216,Guilherme Azevedo,17,Loja Física
+217,André Gonçalves,24,Online
+218,Dra. Gabriela Castro,20,Online
+219,Sra. Mirella Novaes,10,Loja Física
+220,Agatha Costela,23,Loja Física
+221,Gabrielly Martins,14,Loja Física
+222,Giovanna Porto,27,Online
+223,André Dias,10,Loja Física
+224,Srta. Alexia Porto,24,Loja Física
+225,Rodrigo Costela,18,Online
+226,João Felipe Duarte,1,Loja Física
+227,Sra. Alexia Vieira,27,Loja Física
+228,Caroline Martins,22,Loja Física
+229,Rafael Carvalho,24,Loja Física
+230,Lavínia da Rocha,6,Online
+231,Luiz Gustavo da Luz,11,Loja Física
+232,Mirella Costa,8,Loja Física
+233,Alice Farias,25,Online
+234,Yasmin da Paz,22,Online
+235,Paulo da Costa,13,Loja Física
+236,Brenda Silva,6,Online
+237,Daniel Cardoso,1,Loja Física
+238,Elisa da Mata,4,Online
+239,Isabella Oliveira,1,Online
+240,Daniel Costa,17,Online
+241,Guilherme Silveira,6,Loja Física
+242,Sarah Teixeira,2,Loja Física
+243,Leandro Viana,21,Online
+244,Levi Barros,10,Online
+245,Renan Alves,10,Online
+246,Gabriel da Paz,7,Online
+247,Pietro Silveira,3,Loja Física
+248,Lorena Fernandes,11,Online
+249,Catarina Nunes,12,Online
+250,Olivia Cavalcanti,5,Online
+251,Daniela Oliveira,19,Online
+252,Marcela Castro,17,Online
+253,Ana Clara Correia,20,Loja Física
+254,Dra. Eduarda das Neves,14,Loja Física
+255,João Vitor Souza,6,Loja Física
+256,Dr. Diogo da Cruz,9,Online
+257,Davi Sales,4,Loja Física
+258,Maria Costa,16,Loja Física
+259,Nicole Silva,16,Loja Física
+260,João Gabriel da Costa,4,Loja Física
+261,Eduardo da Cruz,10,Online
+262,Gabriela Nascimento,12,Online
+263,Marcelo Jesus,4,Online
+264,Clara Viana,6,Loja Física
+265,Mariana Peixoto,15,Online
+266,Heloísa Sales,19,Online
+267,Heitor Porto,22,Online
+268,Emanuel Azevedo,15,Loja Física
+269,Lorena Azevedo,24,Loja Física
+270,Srta. Clarice Cardoso,17,Loja Física
+271,Davi Luiz Cardoso,4,Online
+272,Gabriela Campos,23,Loja Física
+273,Júlia Costela,21,Online
+274,Augusto Ramos,10,Online
+275,Isabel das Neves,19,Online
+276,João Lucas Gonçalves,2,Loja Física
+277,Sra. Yasmin Pinto,13,Loja Física
+278,Guilherme da Rocha,17,Loja Física
+279,Sr. Luiz Felipe Teixeira,6,Loja Física
+280,Srta. Júlia Cunha,18,Online
+281,Luna Rodrigues,5,Loja Física
+282,Luiz Henrique Jesus,2,Loja Física
+283,Emilly Castro,18,Online
+284,Gabriela Farias,3,Online
+285,Lorenzo das Neves,17,Loja Física
+286,João Vitor Moreira,1,Loja Física
+287,Sr. Vinicius Lopes,19,Loja Física
+288,Igor Freitas,11,Loja Física
+289,Yuri Araújo,14,Online
+290,João Gabriel Mendes,16,Online
+291,Yasmin da Mota,21,Online
+292,Yasmin Costela,21,Online
+293,Dra. Emilly da Cruz,19,Online
+294,Arthur Silveira,22,Online
+295,Dr. Lucas Gabriel Aragão,2,Online
+296,Sra. Fernanda Gomes,8,Loja Física
+297,Carlos Eduardo Gomes,13,Loja Física
+298,Lucas Jesus,7,Online
+299,Bárbara Rocha,4,Loja Física
+300,Milena Novaes,25,Loja Física
+301,Maria Luiza Cardoso,4,Online
+302,André Nogueira,9,Online
+303,Lorena da Cruz,9,Online
+304,Maria Fernanda Sales,20,Loja Física
+305,Isadora Nascimento,10,Online
+306,Pedro Santos,10,Online
+307,Vicente Rodrigues,5,Online
+308,Enzo Rezende,8,Loja Física
+309,Gabriela da Cunha,26,Online
+310,Maria Luiza Freitas,18,Loja Física
+311,Marcelo Gonçalves,8,Online
+312,Vitor Caldeira,13,Online
+313,Dr. Luiz Fernando da Rocha,20,Loja Física
+314,Julia Ribeiro,17,Loja Física
+315,Lorenzo Nogueira,25,Loja Física
+316,Ian Barbosa,12,Loja Física
+317,Sr. Rafael Costela,21,Online
+318,João Guilherme Ramos,20,Online
+319,Pietra Moura,27,Loja Física
+320,Lorenzo da Costa,4,Online
+321,Dr. Luiz Fernando da Mata,15,Online
+322,Caroline Caldeira,27,Online
+323,Dra. Carolina Lopes,7,Online
+324,Daniel Cardoso,18,Loja Física
+325,Murilo Alves,15,Loja Física
+326,Laís Farias,3,Loja Física
+327,Alexia Monteiro,4,Loja Física
+328,Cauê Rocha,10,Loja Física
+329,Rodrigo Caldeira,18,Online
+330,Isabel da Cunha,16,Loja Física
+331,Ryan Campos,4,Loja Física
+332,Ana Luiza Martins,5,Loja Física
+333,Sra. Larissa da Rosa,8,Loja Física
+334,Noah da Costa,20,Online
+335,Amanda Farias,15,Online
+336,Isabel Rocha,17,Online
+337,Sra. Maria Clara Viana,7,Online
+338,Thiago Nogueira,5,Loja Física
+339,Cauê Barbosa,1,Loja Física
+340,Catarina Silveira,25,Online
+341,Maria Sophia Jesus,24,Online
+342,Dra. Emanuelly Moraes,2,Loja Física
+343,Vitória da Rocha,4,Loja Física
+344,Juliana da Cunha,1,Loja Física
+345,Sr. Emanuel Melo,18,Online
+346,Luiz Felipe Alves,17,Loja Física
+347,Thomas Cardoso,14,Loja Física
+348,Ana Beatriz Gomes,6,Online
+349,João Vitor Gonçalves,19,Online
+350,Luiz Henrique Sales,19,Online
+351,Thales Melo,5,Loja Física
+352,Nicolas Moura,8,Loja Física
+353,Ana Lívia da Costa,10,Loja Física
+354,Letícia Gomes,26,Online
+355,Natália Gomes,24,Loja Física
+356,Arthur Rezende,3,Loja Física
+357,Alexia da Rocha,3,Loja Física
+358,Agatha Moraes,14,Online
+359,Luiza Duarte,20,Online
+360,Augusto da Cruz,12,Loja Física
+361,Manuela Cavalcanti,1,Loja Física
+362,Enzo Gabriel Rezende,8,Loja Física
+363,Noah Duarte,18,Loja Física
+364,Rebeca Mendes,27,Online
+365,Juan Porto,12,Online
+366,Vinicius Carvalho,14,Online
+367,Marcela Nogueira,20,Loja Física
+368,Leandro das Neves,12,Loja Física
+369,Larissa Campos,3,Online
+370,Bernardo Silveira,26,Online
+371,Henrique da Cunha,20,Online
+372,Stephany Ribeiro,18,Online
+373,Fernando Barbosa,9,Online
+374,Enrico Almeida,27,Online
+375,Thiago Cardoso,10,Online
+376,Dr. Luiz Fernando Ribeiro,6,Loja Física
+377,Davi Lucca da Conceição,14,Online
+378,Milena Santos,24,Loja Física
+379,Isis Barros,27,Online
+380,Gabriel Alves,6,Online
+381,Theo Silva,19,Online
+382,Erick Rocha,18,Online
+383,Sr. Vitor Araújo,6,Loja Física
+384,Stella das Neves,2,Online
+385,Rodrigo Castro,20,Online
+386,Vitória Campos,14,Online
+387,Igor Sales,24,Online
+388,João Farias,27,Online
+389,Eduarda Lima,17,Online
+390,Kevin Carvalho,11,Loja Física
+391,Ana Vitória Melo,20,Loja Física
+392,Srta. Melissa Viana,17,Online
+393,Nina Lima,5,Online
+394,Pedro Castro,22,Loja Física
+395,Marcela Campos,16,Loja Física
+396,Elisa Ramos,20,Online
+397,Isadora Melo,22,Online
+398,Dra. Olivia Caldeira,21,Online
+399,Alana da Cunha,4,Loja Física
+400,Srta. Gabrielly Sales,12,Loja Física
+401,Heitor Monteiro,6,Loja Física
+402,Kaique Pereira,21,Loja Física
+403,Luiz Gustavo Melo,20,Online
+404,Enzo Moreira,8,Loja Física
+405,Dra. Clara Rezende,4,Online
+406,João Guilherme Ramos,10,Online
+407,Diego Pereira,26,Online
+408,Lara Dias,14,Online
+409,Vitor Campos,22,Loja Física
+410,Larissa da Mota,17,Online
+411,Nina Peixoto,8,Online
+412,Enzo Vieira,26,Online
+413,Ana Beatriz Gonçalves,20,Online
+414,Enzo Gabriel da Conceição,13,Online
+415,Srta. Bruna Araújo,23,Online
+416,André da Conceição,26,Loja Física
+417,Ana Luiza Ribeiro,3,Loja Física
+418,João Guilherme Almeida,19,Loja Física
+419,Emilly da Cruz,9,Online
+420,Pedro Duarte,4,Online
+421,Ana Julia Cardoso,21,Loja Física
+422,Ana Júlia Mendes,10,Loja Física
+423,Ana Júlia da Mata,3,Loja Física
+424,Bárbara Aragão,5,Loja Física
+425,Sra. Lívia da Cruz,1,Loja Física
+426,Lívia Barros,20,Loja Física
+427,Diego Rodrigues,19,Loja Física
+428,Caio Azevedo,18,Loja Física
+429,Alícia Souza,15,Loja Física
+430,Rodrigo Barbosa,6,Loja Física
+431,Sofia Moura,3,Online
+432,Breno Nunes,2,Loja Física
+433,Vitor Gabriel da Luz,12,Loja Física
+434,Sabrina Ramos,4,Loja Física
+435,Kevin Ferreira,9,Loja Física
+436,Nicole Santos,5,Loja Física
+437,Bruna Porto,24,Online
+438,Olivia da Mata,11,Online
+439,Sra. Mariane Mendes,1,Loja Física
+440,Lorenzo da Rocha,27,Online
+441,Luigi da Rosa,26,Online
+442,Alícia Fogaça,20,Online
+443,Lucca Silva,27,Online
+444,Augusto Gonçalves,23,Online
+445,João Guilherme da Cruz,15,Online
+446,Sr. Heitor da Cunha,27,Loja Física
+447,Eloah Ramos,22,Loja Física
+448,Luiz Fernando Lima,3,Loja Física
+449,Arthur Freitas,12,Loja Física
+450,Bruno da Rocha,14,Online
+451,Eduardo Alves,7,Online
+452,Letícia da Rocha,2,Online
+453,Laura Campos,20,Online
+454,Dr. Lucas Gabriel da Rosa,6,Online
+455,Bernardo Silveira,19,Online
+456,Sarah Ramos,2,Online
+457,Mariana Pinto,15,Online
+458,Enrico Cardoso,15,Online
+459,Alexia Nascimento,15,Online
+460,Carlos Eduardo Dias,7,Loja Física
+461,Agatha da Rosa,22,Loja Física
+462,Davi Luiz Moreira,1,Online
+463,Otávio Nunes,4,Loja Física
+464,Srta. Rebeca Castro,3,Online
+465,Matheus Lima,22,Online
+466,Bruna Cavalcanti,9,Loja Física
+467,Alexia Cardoso,18,Online
+468,Dra. Melissa Campos,23,Loja Física
+469,Sr. Luiz Otávio Freitas,21,Loja Física
+470,Maitê Silveira,11,Online
+471,Marcelo Nogueira,12,Online
+472,Pedro Miguel da Cunha,3,Loja Física
+473,Dr. André Peixoto,16,Online
+474,Nicolas Barbosa,23,Online
+475,Olivia Lopes,10,Loja Física
+476,Alícia das Neves,12,Online
+477,Dra. Larissa da Mota,3,Loja Física
+478,Ana Carolina da Cunha,11,Online
+479,Bruno da Luz,16,Online
+480,Raul da Rosa,18,Loja Física
+481,Ana Sophia Campos,12,Online
+482,Lucas Gabriel da Cruz,4,Loja Física
+483,João Guilherme Gomes,19,Loja Física
+484,Thales Nunes,26,Online
+485,Kaique Azevedo,3,Loja Física
+486,Murilo Pires,16,Loja Física
+487,Lucas Costela,17,Loja Física
+488,Emanuelly da Rosa,7,Online
+489,Elisa da Luz,27,Online
+490,Joana da Cunha,17,Online
+491,Vitor Gabriel Almeida,9,Online
+492,Juliana da Cruz,1,Online
+493,Nicolas Porto,14,Loja Física
+494,Evelyn Monteiro,23,Loja Física
+495,Melissa Moura,25,Online
+496,Amanda da Mata,1,Loja Física
+497,Isabella da Luz,24,Loja Física
+498,Vitor Gabriel Pereira,18,Loja Física
+499,Mariana da Paz,14,Online
+500,Francisco Correia,24,Loja Física

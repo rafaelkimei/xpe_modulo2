@@ -1,0 +1,51 @@
+Categoria,Nome_Produto,SKU,Preco
+Eletrônicos,Smartphone,SKU-72688,2718.36
+Eletrônicos,Laptop,SKU-50582,4526.6
+Eletrônicos,Fone de Ouvido Bluetooth,SKU-54960,128.9
+Eletrônicos,TV LED,SKU-42823,4350.2
+Eletrônicos,Tablet,SKU-49210,715.28
+Eletrônicos,Smartwatch,SKU-86759,185.34
+Eletrônicos,Câmera Digital,SKU-10889,5602.01
+Eletrônicos,Alto-falante Bluetooth,SKU-92162,1198.31
+Eletrônicos,Carregador Portátil,SKU-37178,53.67
+Eletrônicos,Roteador Wi-Fi,SKU-20568,491.41
+Roupas,Camiseta Masculina,SKU-68595,47.57
+Roupas,Vestido Feminino,SKU-99850,354.77
+Roupas,Calça Jeans,SKU-28878,123.17
+Roupas,Jaqueta de Couro,SKU-36297,1959.53
+Roupas,Blusa de Moletom,SKU-59736,154.46
+Roupas,Saia Midi,SKU-21352,123.24
+Roupas,Tênis Esportivo,SKU-47220,164.48
+Roupas,Sapatilhas Femininas,SKU-91071,150.05
+Roupas,Camisa Social,SKU-46571,166.94
+Roupas,Shorts de Verão,SKU-56131,112.14
+Casa,Conjunto de Panelas,SKU-74214,634.4
+Casa,Jogo de Lençol,SKU-59806,498.24
+Casa,Cortina Blackout,SKU-72849,234.54
+Casa,Conjunto de Talheres,SKU-56364,68.89
+Casa,Almofada Decorativa,SKU-26460,73.62
+Casa,Cafeteira Elétrica,SKU-68873,750.7
+Casa,Espelho de Parede,SKU-20895,226.92
+Casa,Organizador de Gavetas,SKU-69331,136.47
+Casa,Ventilador de Mesa,SKU-37873,270.78
+Casa,Luminária de Mesa,SKU-73390,35.83
+Esporte,Bicicleta Mountain Bike,SKU-47207,1671.59
+Esporte,Esteira Elétrica,SKU-31191,1862.8
+Esporte,Bola de Futebol,SKU-19290,184.44
+Esporte,Raquete de Tênis,SKU-67575,379.94
+Esporte,Skate,SKU-26147,157.01
+Esporte,Halteres de Academia,SKU-35933,249.82
+Esporte,Tapete de Yoga,SKU-77662,80.11
+Esporte,Mochila de Hidratação,SKU-25929,295.55
+Esporte,Patins,SKU-97371,237.06
+Esporte,Luva de Boxe,SKU-50055,98.09
+Brinquedos,Blocos de Montar,SKU-19189,167.64
+Brinquedos,Boneca,SKU-11521,142.37
+Brinquedos,Carrinho de Controle Remoto,SKU-22668,273.79
+Brinquedos,Jogo de Tabuleiro,SKU-25095,190.34
+Brinquedos,Quebra-cabeça,SKU-53822,122.47
+Brinquedos,Urso de Pelúcia,SKU-30676,93.4
+Brinquedos,Kit de Desenho,SKU-30274,148.7
+Brinquedos,Patinete Infantil,SKU-79560,131.58
+Brinquedos,Kit de Cozinha Infantil,SKU-94109,136.43
+Brinquedos,Brinquedo Educativo,SKU-10344,79.47
